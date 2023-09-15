@@ -1,0 +1,15 @@
+C:\Users\Michał\Documents\Projekty_studia\probiekt2\Problem_B_Bramki\Problem_B_Bramki\bin\Debug\net6.0\Problem_B_Bramki.exe
+C:\Users\Michał\Documents\Projekty_studia\probiekt2\Problem_B_Bramki\Problem_B_Bramki\bin\Debug\net6.0\Problem_B_Bramki.deps.json
+C:\Users\Michał\Documents\Projekty_studia\probiekt2\Problem_B_Bramki\Problem_B_Bramki\bin\Debug\net6.0\Problem_B_Bramki.runtimeconfig.json
+C:\Users\Michał\Documents\Projekty_studia\probiekt2\Problem_B_Bramki\Problem_B_Bramki\bin\Debug\net6.0\Problem_B_Bramki.dll
+C:\Users\Michał\Documents\Projekty_studia\probiekt2\Problem_B_Bramki\Problem_B_Bramki\bin\Debug\net6.0\Problem_B_Bramki.pdb
+C:\Users\Michał\Documents\Projekty_studia\probiekt2\Problem_B_Bramki\Problem_B_Bramki\obj\Debug\net6.0\Problem_B_Bramki.csproj.AssemblyReference.cache
+C:\Users\Michał\Documents\Projekty_studia\probiekt2\Problem_B_Bramki\Problem_B_Bramki\obj\Debug\net6.0\Problem_B_Bramki.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Michał\Documents\Projekty_studia\probiekt2\Problem_B_Bramki\Problem_B_Bramki\obj\Debug\net6.0\Problem_B_Bramki.AssemblyInfoInputs.cache
+C:\Users\Michał\Documents\Projekty_studia\probiekt2\Problem_B_Bramki\Problem_B_Bramki\obj\Debug\net6.0\Problem_B_Bramki.AssemblyInfo.cs
+C:\Users\Michał\Documents\Projekty_studia\probiekt2\Problem_B_Bramki\Problem_B_Bramki\obj\Debug\net6.0\Problem_B_Bramki.csproj.CoreCompileInputs.cache
+C:\Users\Michał\Documents\Projekty_studia\probiekt2\Problem_B_Bramki\Problem_B_Bramki\obj\Debug\net6.0\Problem_B_Bramki.dll
+C:\Users\Michał\Documents\Projekty_studia\probiekt2\Problem_B_Bramki\Problem_B_Bramki\obj\Debug\net6.0\refint\Problem_B_Bramki.dll
+C:\Users\Michał\Documents\Projekty_studia\probiekt2\Problem_B_Bramki\Problem_B_Bramki\obj\Debug\net6.0\Problem_B_Bramki.pdb
+C:\Users\Michał\Documents\Projekty_studia\probiekt2\Problem_B_Bramki\Problem_B_Bramki\obj\Debug\net6.0\Problem_B_Bramki.genruntimeconfig.cache
+C:\Users\Michał\Documents\Projekty_studia\probiekt2\Problem_B_Bramki\Problem_B_Bramki\obj\Debug\net6.0\ref\Problem_B_Bramki.dll

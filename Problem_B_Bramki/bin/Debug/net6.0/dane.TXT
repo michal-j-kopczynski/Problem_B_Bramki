@@ -1,0 +1,54 @@
+2 2 1
+o i1 i2
+n g1
+2
+2
+1 0 0
+0 0 1
+2 1 1
+a i1 i2
+1
+1
+1 0 1
+2 1 1
+a i1 i2
+1
+2
+1 0 1
+1 1 1
+1 1 1
+n i1
+1
+2
+1 1
+0 0
+3 4 4
+n g4
+a i1 i2
+o i2 i3
+x i3 i1
+2 3 4 1
+4
+0 1 0 0 1 0 1
+0 1 1 0 1 1 0
+1 1 1 0 1 0 1
+0 0 0 0 0 0 1
+0 0 0
+
+Symulacja(0 = input na output ->> w układ
+
+metoda:
+CzyUkładZgodnyZTestami ->>> zadanie
+
+zadanie:
+może, nie musi być metoda rozwiąz_zadanie
+
+
+Cysterny wcale nie muszą być prostopadłościanami (walec)
+P jak prostopadłościan, WAL jak walec etc
+
+11 P 8 2 7
+5 W 5 12
+(w zależności od figury odpowiednio podane dane)
+
+algorytm bisekcji/dzielnia na pół
